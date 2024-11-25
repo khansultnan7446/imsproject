@@ -1,0 +1,20 @@
+.parent{
+    height: 100vh;
+    width: 100vw;
+    background-color: aqua;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.child{
+    height: 300px;
+    border-radius: 10PX;
+    width: 300px;
+    background-color: chocolate;
+}
+
+label{
+    width: 100px;
+    margin: 4px;
+}
